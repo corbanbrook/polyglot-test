@@ -1,0 +1,112 @@
+{
+  "3ta9QZ": {
+    "translation": "Advanced translation with easy Github integration.",
+    "message": "Advanced translation with easy Github integration.",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        80
+      ]
+    ]
+  },
+  "QsDjlD": {
+    "translation": "Apple",
+    "message": "Apple",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        87
+      ]
+    ]
+  },
+  "ehaZ+s": {
+    "translation": "Car",
+    "message": "Car",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        89
+      ]
+    ]
+  },
+  "halrRh": {
+    "translation": "Happy",
+    "message": "Happy",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        92
+      ]
+    ]
+  },
+  "GpMARg": {
+    "translation": "Love",
+    "message": "Love",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        93
+      ]
+    ]
+  },
+  "iQ2nLC": {
+    "translation": "Moon",
+    "message": "Moon",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        86
+      ]
+    ]
+  },
+  "JiA8JY": {
+    "translation": "Snow",
+    "message": "Snow",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        91
+      ]
+    ]
+  },
+  "D89zck": {
+    "translation": "Sun",
+    "message": "Sun",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        85
+      ]
+    ]
+  },
+  "/dCWE0": {
+    "translation": "Tree",
+    "message": "Tree",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        88
+      ]
+    ]
+  },
+  "Xy71ST": {
+    "translation": "Umbrella",
+    "message": "Umbrella",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        90
+      ]
+    ]
+  }
+}
